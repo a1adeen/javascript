@@ -13,3 +13,4 @@ function inputmsg(){
     let name = prompt('enter the Name of student');
     clickmebtn.textContent = 'roll no.1' + name;
 }
+
