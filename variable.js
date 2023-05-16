@@ -14,3 +14,6 @@ function inputmsg(){
     clickmebtn.textContent = 'roll no.1' + name;
 }
 
+var num = "1";
+console.log(typeof num);
+
